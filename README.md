@@ -1,12 +1,11 @@
 ## 👋 Hello!
 Im Rasyid Nafsyarie as a Frontend Engineer at Telkom University Purwokerto, I have working experience at RUS Animation Studio as a UI/UX Designer for 6 months.
 
-<a href="https://www.instagram.com/rasyidnafsyarie/" target="_blank"><img align="left" alt="Rasyid | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <br />
 <br />
 
-### Languages and Tools:
+### 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
@@ -21,15 +20,6 @@ Im Rasyid Nafsyarie as a Frontend Engineer at Telkom University Purwokerto, I ha
 <br />
 <br />
   
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TWXeRF1b29BsjyfAfvSFw3Wqkgi_eiZUAg&usqp=CAU" />
-
-
-<br />
-<br />
-
 ---
 
 
