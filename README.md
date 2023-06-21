@@ -1,6 +1,6 @@
 ## Hello There 👋, I'm <a href="https://github.com/RasyidNafsyarie" target="_blank">Rasyid</a>!
 
-<a href="https://www.instagram.com/devannurizqi/" target="_blank"><img align="left" alt="Rasyid | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.instagram.com/rasyidnafsyarie/" target="_blank"><img align="left" alt="Rasyid | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 <br />
 <br />
