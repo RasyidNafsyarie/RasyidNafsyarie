@@ -1,5 +1,5 @@
 ## 👋 Hello!
-Im Rasyid Nafsyarie as a Frontend Engineer at Telkom University Purwokerto, I have working experience at RUS Animation Studio as a UI/UX Designer for 6 months.
+Im Rasyid Nafsyarie as a Informatics Engineering at Telkom University Purwokerto, I have working experience at RUS Animation Studio as a UI/UX Designer for 6 months.
 
 
 <br />
