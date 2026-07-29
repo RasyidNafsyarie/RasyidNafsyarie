@@ -29,8 +29,3 @@ Im Rasyid Nafsyarie as a Informatics Engineering at Telkom University Purwokerto
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/5743c5d5-9035-4704-bdea-91e501bf6449/thumbnail" >
-</p>
-
