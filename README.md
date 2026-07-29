@@ -22,5 +22,15 @@ Im Rasyid Nafsyarie as a Informatics Engineering at Telkom University Purwokerto
   
 ---
 
+### 📊 My GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RasyidNafsyarie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="RasyidNafsyarie's GitHub stats" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=RasyidNafsyarie&?username=RasyidNafsyarie&layout=compact&langs_count=8&theme=dracula" alt="RasyidNafsyarie's top languages" />
+</p>
 
-[![RasyidNafsyarie GitHub stats](https://github-readme-stats.vercel.app/api?username=RasyidNafsyarie&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/5743c5d5-9035-4704-bdea-91e501bf6449/thumbnail" >
+</p>
+
