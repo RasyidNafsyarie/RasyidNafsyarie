@@ -23,4 +23,4 @@ Im Rasyid Nafsyarie as a Informatics Engineering at Telkom University Purwokerto
 ---
 
 
-![](https://github-readme-stats.shion.dev/api?username=RasyidNafsyarie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=synthwave&hide_border=false" alt="GitHub Stats" />
