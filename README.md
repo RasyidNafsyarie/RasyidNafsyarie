@@ -23,4 +23,4 @@ Im Rasyid Nafsyarie as a Informatics Engineering at Telkom University Purwokerto
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RasyidNafsyarie)](https://github.com/RasyidNafsyarie/RasyidNafsyarie/blob/master/README.md)
+[![RasyidNafsyarie GitHub stats](https://github-readme-stats.vercel.app/api?username=RasyidNafsyarie&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
