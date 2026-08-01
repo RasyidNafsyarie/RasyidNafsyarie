@@ -41,16 +41,11 @@ Halo! Saya **Rasyid Nafsyarie**, mahasiswa **Teknik Informatika** di **Telkom Un
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RasyidNafsyarie&theme=dracula" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RasyidNafsyarie&theme=dracula" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RasyidNafsyarie&theme=dracula" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RasyidNafsyarie&theme=dracula" alt="Most commit language" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RasyidNafsyarie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="RasyidNafsyarie's GitHub stats" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=RasyidNafsyarie&layout=compact&langs_count=8&theme=dracula" alt="RasyidNafsyarie's top languages" />
 </p>
 
 <p align="center">
